@@ -1,4 +1,4 @@
 <?php
 
-echo 'exo plaform';
+echo 'exo platform';
 
